@@ -22,6 +22,11 @@ An Electron application with React
 
 ## Project Setup
 
+## Created via this template 
+
+bun create @quick-start/electron recall --template react
+
+
 ### Install
 
 ```bash
